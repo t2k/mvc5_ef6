@@ -1,0 +1,9 @@
+C:\Users\t2k\documents\visual studio 2013\Projects\KYC\KYC.Entities\bin\Debug\KYC.Entities.dll.config
+C:\Users\t2k\documents\visual studio 2013\Projects\KYC\KYC.Entities\bin\Debug\KYC.Entities.dll
+C:\Users\t2k\documents\visual studio 2013\Projects\KYC\KYC.Entities\bin\Debug\KYC.Entities.pdb
+C:\Users\t2k\documents\visual studio 2013\Projects\KYC\KYC.Entities\bin\Debug\EntityFramework.dll
+C:\Users\t2k\documents\visual studio 2013\Projects\KYC\KYC.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\t2k\documents\visual studio 2013\Projects\KYC\KYC.Entities\bin\Debug\EntityFramework.xml
+C:\Users\t2k\documents\visual studio 2013\Projects\KYC\KYC.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\t2k\documents\visual studio 2013\Projects\KYC\KYC.Entities\obj\Debug\KYC.Entities.dll
+C:\Users\t2k\documents\visual studio 2013\Projects\KYC\KYC.Entities\obj\Debug\KYC.Entities.pdb

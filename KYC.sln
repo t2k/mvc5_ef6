@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KYC.Entities", "KYC.Entities\KYC.Entities.csproj", "{17E5836C-EE2D-4A61-9045-F46CDE8DE05F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KYC.Web", "KYC.Web\KYC.Web.csproj", "{47B74D75-3338-4594-A15D-40959919ADFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KYC.Web.Tests", "KYC.Web.Tests\KYC.Web.Tests.csproj", "{D9A1F52E-AE9D-4882-B9E0-40359A318ABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KYC.EntitiesScratch", "KYC.EntitiesScratch\KYC.EntitiesScratch.csproj", "{8943388C-E5B8-4164-A655-F5B9447FEA2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17E5836C-EE2D-4A61-9045-F46CDE8DE05F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17E5836C-EE2D-4A61-9045-F46CDE8DE05F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17E5836C-EE2D-4A61-9045-F46CDE8DE05F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17E5836C-EE2D-4A61-9045-F46CDE8DE05F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47B74D75-3338-4594-A15D-40959919ADFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47B74D75-3338-4594-A15D-40959919ADFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47B74D75-3338-4594-A15D-40959919ADFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47B74D75-3338-4594-A15D-40959919ADFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9A1F52E-AE9D-4882-B9E0-40359A318ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A1F52E-AE9D-4882-B9E0-40359A318ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A1F52E-AE9D-4882-B9E0-40359A318ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A1F52E-AE9D-4882-B9E0-40359A318ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8943388C-E5B8-4164-A655-F5B9447FEA2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8943388C-E5B8-4164-A655-F5B9447FEA2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8943388C-E5B8-4164-A655-F5B9447FEA2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8943388C-E5B8-4164-A655-F5B9447FEA2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
